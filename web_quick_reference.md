@@ -24,13 +24,14 @@ Users only read **18% of web content** - make every word count!
 ## CONTENT STRUCTURE
 
 ### Inverted Pyramid
-📍 Most important info FIRST
-📍 Background at bottom
+- Put the most important info first
+- Background at bottom
+- Avoid using 'just in case' content entirely
 
 ### Chunking
-✅ One topic per paragraph
-✅ Use informative headings
-✅ Lists over long paragraphs
+- One topic per paragraph
+- Use informative headings
+- Lists over long paragraphs
 
 ### Only include what's needed
 Users scan - they don't read everything
@@ -40,57 +41,56 @@ Users scan - they don't read everything
 ## WRITING STYLE
 
 ### Active voice (always)
-✅ The student completed the form
-❌ The form was completed by the student
+Do this: The student completed the form
+Don't do this: The form was completed by the student
 
 ### Short sentences
 Target: 15-20 words maximum
 
 ### Omit unnecessary words
-✅ "to" (not "in order to")
-✅ "examine" (not "carry out an examination of")
-✅ "ask" (not "make an enquiry")
+- "to" (not "in order to")
+- "examine" (not "carry out an examination of")
+- "ask" (not "make an enquiry")
 
 ### Plain language
 Avoid jargon and colloquialisms
-- ❌ "pack your togs and jandals"
-- ✅ "bring swimwear and sandals"
+Instead of "pack your togs and jandals"
+Say "bring swimwear and sandals"
 
 ---
 
 ## HEADINGS
 
 ### Always use:
-✅ Sentence case (not Title Case or ALL CAPS)
-✅ Front-load with verb
-✅ Specific and meaningful
-✅ Statements (not questions)
-✅ Proper H1→H2→H3 hierarchy
+- Sentence case (not Title Case or ALL CAPS)
+- Front-load with verb
+- Specific and meaningful
+- Statements (not questions)
+- Proper H1→H2→H3 hierarchy
 
 ### Never include:
-❌ Full stops
-❌ Question format
-❌ Vague language ("More information")
+- Full stops
+- Question format
+- Vague language ("More information")
 
 ---
 
 ## LINKS
 
 ### Placement
-✅ **Below** the text they refer to (not mid-sentence)
-✅ Easier to tap on mobile
+- **Below** the text they refer to (not mid-sentence)
+- Easier to tap on mobile
 
 ### Link text
-✅ Descriptive (can stand alone)
-✅ 2-4 words for buttons/CTAs
-✅ Start with verb
-✅ Sentence case
-❌ No full stop after link
+- Make it descriptive (can stand alone)
+- 2-4 words for buttons/CTAs
+- Start with verb
+- Use sentence case
+- No full stop after link
 
 ### Examples:
-✅ "Apply for Health Sciences First Year"
-❌ "Click here"
-❌ "Read more"
+Do this: "Apply for Health Sciences First Year"
+Don't do this: "Click here" or "Read more"
 
 ---
 
@@ -104,20 +104,20 @@ Avoid jargon and colloquialisms
 - Links
 
 ### Bold
-❌ **Avoid** (rare exception: critical safety/legal info only)
+**Avoid** (rare exception: critical safety/legal info only)
 
 ### Italics
-❌ **Minimise** - only for publications (books, films, journals)
-❌ **NOT for Latin phrases** (use plain text: in vivo, in vitro)
+**Minimise** - only for publications (books, films, journals)
+**NOT for Latin phrases** (use plain text: in vivo, in vitro)
 
 ### Underline
-❌ **NEVER** - reserved for hyperlinks only
+**NEVER** - reserved for hyperlinks only
 
 ### Exclamation marks
-❌ **Do not use**
+**Do not use**
 
 ### Full stops
-❌ **Not in:**
+**Not in:**
 - Headings/subheadings
 - Link text
 - Photo captions
@@ -130,43 +130,42 @@ Avoid jargon and colloquialisms
 
 ### First mention rule
 Always spell out first, then use acronym:
-✅ Health Sciences First Year (HSFY)
-✅ The HSFY programme begins...
+Do this: Health Sciences First Year (HSFY), the HSFY programme begins...
 
 ### Or replace entirely
-✅ "right away" (not ASAP)
+- "right away" is clearer than ASAP
 
 ---
 
 ## ACCESSIBLE LANGUAGE
 
 ### Avoid:
-❌ Gendered assumptions
-❌ Ableist language ("sanity check" → "quick check")
-❌ Cultural stereotypes
-❌ Colloquialisms/slang
+- Gendered assumptions
+- Ableist language ("sanity check" → "quick check")
+- Cultural stereotypes
+- Colloquialisms/slang
 
 ### Include:
-✅ Language change indicators (`lang` attribute for non-English)
-✅ Descriptive link text (for screen readers)
-✅ Proper heading hierarchy (for navigation)
+- Language change indicators (`lang` attribute for non-English)
+- Descriptive link text (for screen readers)
+- Proper heading hierarchy (for navigation)
 
 ---
 
 ## OTAGO-SPECIFIC
 
 ### Official names
-✅ University of Otago (never "Otago University")
-✅ Department of Anatomy (never "Anatomy Department")
+- University of Otago (never "Otago University")
+- Department of Anatomy (never "Anatomy Department")
 
 ### Academic titles
-✅ Associate Professor Jane Smith
-❌ Assoc Prof Jane Smith
+- Use: Associate Professor Jane Smith
+- Don't use: Assoc Prof Jane Smith
 
 ### Never abbreviate:
-- Professor → Prof ❌
-- Associate Professor → Assoc Prof ❌
-- Department → dept. ❌
+- Professor → Prof 
+- Associate Professor → Assoc Prof 
+- Department → dept. 
 
 ---
 
@@ -191,13 +190,13 @@ Content is only clear if users can:
 ## HTML & ACCESSIBILITY
 
 ### Function over form
-❌ Don't use formatting because it "looks cool"
-✅ Use correct HTML elements for their purpose
+- Don't use formatting because it "looks cool"
+- Use correct HTML elements for their purpose
 
 ### Headings hierarchy
-✅ H1 → H2 → H3 (in order)
-❌ Don't skip levels
-❌ Don't use to make text bigger
+- H1 → H2 → H3 (in order)
+- Don't skip levels
+- Don't use headings to make text bigger
 
 ### Screen reader considerations
 - Meaningful link text
