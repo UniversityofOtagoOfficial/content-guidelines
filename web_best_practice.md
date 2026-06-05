@@ -71,11 +71,11 @@ Omit unnecessary information
 **Why:** Simpler, more direct, requires fewer words
 
 **Examples:**
-- ✅ Active: The student completed the form
-- ❌ Passive: The form was completed by the student
+- Active: The student completed the form
+- Passive: The form was completed by the student
 
-- ✅ DO: Watching water boil won't make it boil any faster
-- ❌ DON'T: It is a simple fact that continuing to keep regular checks and constantly watching cold water rising in temperature until it arrives at the boiling point of degree centigrade, will not, in fact, make it come to the perfect temperature any faster, than, say, staring at the nearest wallpaper
+- DO: Watching water boil won't make it boil any faster
+- DON'T: It is a simple fact that continuing to keep regular checks and constantly watching cold water rising in temperature until it arrives at the boiling point of degree centigrade, will not, in fact, make it come to the perfect temperature any faster, than, say, staring at the nearest wallpaper
 
 ### Omit unnecessary words
 **Lean phrases:**
@@ -135,7 +135,7 @@ How easy it is for someone to understand a piece of text
 ### Heading guidelines
 **Use clear, concise, front-loaded headings**
 
-✅ **DO:**
+**DO:**
 - Use specific, meaningful headings
 - Front-load headings with a verb
 - Structure your page with headings
@@ -170,7 +170,7 @@ How easy it is for someone to understand a piece of text
 **Why:** Separating links from text makes them easier to select on mobile devices
 
 ### Link guidelines
-✅ **DO:**
+**DO:**
 - Make link text meaningful (should stand alone)
 - Avoid mid-sentence links
 - Front-load your link text
@@ -180,7 +180,7 @@ How easy it is for someone to understand a piece of text
 - Match the destination content
 - Use sentence case
 
-❌ **DON'T:**
+**DON'T:**
 - Put a full stop after link text
 
 **Resource:** Design London Readability Guidelines (comprehensive link guidance)
@@ -280,8 +280,8 @@ Before using jargon, ask:
 **Always put acronym in brackets after first use of full term**
 
 **Examples:**
-- ✅ DO: The Pacific Opportunities Programme at Otago (POPO) Student Team oversees student support within the Division of Health Sciences
-- ❌ DON'T: The POPO Student Team oversees student support within the Division of Health Sciences
+- DO: The Pacific Opportunities Programme at Otago (POPO) Student Team oversees student support within the Division of Health Sciences
+- DON'T: The POPO Student Team oversees student support within the Division of Health Sciences
 
 ### Abbreviation tags
 **Very important for screen readers**
@@ -315,11 +315,11 @@ Ensures language doesn't exclude based on:
 **Not all users understand colloquialisms**
 
 **Examples:**
-- ❌ DON'T: Coming to Otago? Don't forget to pack your togs and jandals!
-- ✅ DO: It gets very warm in Dunedin so bring swimwear and sandals
+- DON'T: Coming to Otago? Don't forget to pack your togs and jandals!
+- DO: It gets very warm in Dunedin so bring swimwear and sandals
 
-- ❌ DON'T: What are you waiting for? Come in and have a yarn
-- ✅ DO: We encourage students to come into the Centre and talk to us
+- DON'T: What are you waiting for? Come in and have a yarn
+- DO: We encourage students to come into the Centre and talk to us
 
 ### Language changes on page
 **NZ Government Web Accessibility Standard requirement**
@@ -364,18 +364,18 @@ Ensures language doesn't exclude based on:
 - Correct campus abbreviations
 
 **Examples:**
-- ❌ DON'T: Otago University
-- ✅ DO: The University of Otago
+- DON'T: Otago University
+- DO: The University of Otago
 
-- ❌ DON'T: Anatomy Department
-- ✅ DO: The Department of Anatomy
+- DON'T: Anatomy Department
+- DO: The Department of Anatomy
 
 ### Academic titles
 **Do not abbreviate academic titles - use full titles**
 
 **Examples:**
-- ✅ DO: Associate Professor Jane Downes welcomed the Prime Minister of Samoa to Otago
-- ❌ DON'T: Assoc Prof Mark Winders was recently knighted for his contribution to education
+- DO: Associate Professor Jane Downes welcomed the Prime Minister of Samoa to Otago
+- DON'T: Assoc Prof Mark Winders was recently knighted for his contribution to education
 
 ---
 
